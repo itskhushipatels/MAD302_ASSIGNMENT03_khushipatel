@@ -1,1 +1,1 @@
-error handling feature
+home screen feature
