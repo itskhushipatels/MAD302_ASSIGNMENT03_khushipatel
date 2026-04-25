@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MAD302_ASSIGNMENT03_khushipatel" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.MAD302_ASSIGNMENT03_khushipatel" parent="Base.Theme.MAD302_ASSIGNMENT03_khushipatel" />
+</resources>
